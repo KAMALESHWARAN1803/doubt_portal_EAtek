@@ -1,0 +1,7 @@
+com\doubtportal\StudentDoubtPortalApplication.class
+com\doubtportal\controller\HomeController.class
+com\doubtportal\model\User.class
+com\doubtportal\repository\DoubtRepository.class
+com\doubtportal\repository\UserRepository.class
+com\doubtportal\model\Doubt.class
+com\doubtportal\controller\DoubtController.class
